@@ -17,19 +17,21 @@ $ git clone https://github.com/patsongco/41040-Introduction-to-Artificial-Intell
 ```
 $ chmod +x yolo3
 ```
-**4.** Execute GUI.py using python
+**4.** Download pre-trained Yolov3 weights [here](https://pjreddie.com/media/files/yolov3.weights) and place file in "41040-Introduction-to-Artificial-Intelligence" folder
+
+**5.** Execute GUI.py using python
 ```
 $ python3 GUI.py
 ```
-**5.** Window with Graphical User Interface (GUI) will apprear
+**6.** Window with Graphical User Interface (GUI) will apprear
 
 ![Image of GUI1](/GUI_1.png)
 
-**6.** Click on "Choose Image" button to choose a picture for inference
+**7.** Click on "Choose Image" button to choose a picture for inference
 
 ![Image of GUI2](/GUI_2.png)
 
-**7.** Click on "Classify Image" button to view results
+**8.** Click on "Classify Image" button to view results
 
 ![Image of GUI3](/GUI_3.png)
 
