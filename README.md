@@ -35,7 +35,7 @@ $ python3 GUI.py
 
 ![Image of GUI2](/GUI_2.png)
 
-**8.** Click on "Classify Image" button to view results
+**8.** Click on "Classify Image" button to view results (this may take several seconds depending on hardware)
 
 ![Image of GUI3](/GUI_3.png)
 
