@@ -23,7 +23,13 @@ $ python3 GUI.py
 ```
 **5.** Window with Graphical User Interface (GUI) will apprear
 
+![Image of GUI1](/GUI_1.png)
 
+**6.** Click on "Choose Image" button to choose a picture for inference
 
+![Image of GUI2](/GUI_2.png)
 
+**7.** Click on "Classify Image" button to view results
+
+![Image of GUI3](/GUI_3.png)
 
