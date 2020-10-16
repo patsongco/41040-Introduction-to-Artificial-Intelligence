@@ -13,11 +13,14 @@
 ```
 $ git clone https://github.com/patsongco/41040-Introduction-to-Artificial-Intelligence
 ```
+
+A folder named "41040-Introduction-to-Artificial-Intelligence" should be created with all the required files (exccept pre-trained Yolo_v3 weights: Step 4)
+
 **3.** Change permissions so the yolo3 file is executable
 ```
 $ chmod +x yolo3
 ```
-**4.** Download pre-trained Yolov3 weights [here](https://pjreddie.com/media/files/yolov3.weights) and place file in "41040-Introduction-to-Artificial-Intelligence" folder
+**4.** Download pre-trained Yolo_v3 weights [here](https://pjreddie.com/media/files/yolov3.weights) (237 MB) and place file in "41040-Introduction-to-Artificial-Intelligence" folder
 
 **5.** Execute GUI.py using python
 ```
