@@ -3,6 +3,7 @@
 # Implementation of YOLOv3 trained on MSCOCO dataset + GUI for inference
 - Feature Extraction
 - Object Detection
+- Localization
 - Classification
 
 ## How to use on the command line
@@ -20,6 +21,8 @@ $ chmod +x yolo3
 ```
 $ python3 GUI.py
 ```
+**5.** Window with Graphical User Interface (GUI) will apprear
+
 
 
 
