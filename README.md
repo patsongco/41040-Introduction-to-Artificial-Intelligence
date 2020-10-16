@@ -30,7 +30,7 @@ $ python3 GUI.py
 
 ![Image of GUI1](/GUI_1.png)
 
-**7.** Click on "Choose Image" button to choose a picture for inference
+**7.** Click on "Choose Image" button to choose a picture from your PC. Some sample images can be found in "41040-Introduction-to-Artificial-Intelligence/data".
 
 ![Image of GUI2](/GUI_2.png)
 
