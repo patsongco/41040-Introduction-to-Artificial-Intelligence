@@ -20,6 +20,7 @@ A folder named "41040-Introduction-to-Artificial-Intelligence" should be created
 
 **4.** Navigate to "41040-Introduction-to-Artificial-Intelligence" directory and change permissions so the yolo3 file is executable
 ```
+$ cd 41040-Introduction-to-Artificial-Intelligence/
 $ chmod +x yolo3
 ```
 **5.** Execute GUI.py using python
